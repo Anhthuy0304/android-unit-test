@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.techyourchance.unittestingfundamentals.exercise2.StringDuplicatorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-08-08T10:24:46" hostname="THUYMAI1-ITC-APP-TBM0002668.local" time="0.001">
+  <properties/>
+  <testcase name="isDuplicated_duplicateSingleCharacter_returnCorrect" classname="com.techyourchance.unittestingfundamentals.exercise2.StringDuplicatorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
